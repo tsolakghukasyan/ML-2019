@@ -1,10 +1,10 @@
-# Курс "Машинное обучение".
+# Курс "Машинное обучение"
 РАУ, осень 2019.
 
 ### Лекции
 
 1. Введение в машинное обучение. Python:
-[слайды](https://docs.google.com/presentation/d/11JSz6xmCq-gMQKyV3lSqVwnBpiBItX6SXSqn-BKfw3A/edit?usp=sharing), [теоретическое задание](https://forms.gle/HLFAu1BbR8UrJobp9), [практическое задание]().
+[слайды](https://docs.google.com/presentation/d/11JSz6xmCq-gMQKyV3lSqVwnBpiBItX6SXSqn-BKfw3A/edit?usp=sharing), [теоретическое задание](https://forms.gle/HLFAu1BbR8UrJobp9), [практическое задание](https://yadi.sk/i/8yuMGmCOaF8fNg).
 
 1. *TBA*
 
