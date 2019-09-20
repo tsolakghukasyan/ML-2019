@@ -37,12 +37,12 @@
 1. Официальная [документация языка](https://www.python.org/doc/).
 1. Краткий [обзор](https://cs231n.github.io/python-numpy-tutorial/#python-basic) основ языка.
 1. Платформа [Anaconda](https://www.anaconda.com/distribution/#download-section).
-1. [Jupyter Notebook](https://devpractice.ru/python-lesson-6-work-in-jupyter-notebook/) для интерактивных вычислений.
+1. [Jupyter Notebook](http://math-hse.info/f/2018-19/py-polit/instruction_JN.pdf) для интерактивных вычислений.
 1. Русскоязычные [онлайн-курсы](https://pythonworld.ru/kursy/free.html).
 1. Англоязычный [интерактивный туториал](https://www.learnpython.org/).
 1. [NumPy туториал](https://docs.scipy.org/doc/numpy-dev/user/quickstart.html).
 1. [Matplotlib туториал](http://matplotlib.org/users/pyplot_tutorial.html).
-1. [Pandas туториал](http://pandas.pydata.org/pandas-docs/stable/tutorials.html).
+1. Pandas [туториал 1](https://yadi.sk/i/pWwVPxvL3N9mX3), [туториал 2](http://pandas.pydata.org/pandas-docs/stable/tutorials.html).
 
 **Машинное обучение**
 
