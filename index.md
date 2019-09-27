@@ -6,7 +6,10 @@
 1. Введение в машинное обучение. Python:
 [слайды](https://docs.google.com/presentation/d/11JSz6xmCq-gMQKyV3lSqVwnBpiBItX6SXSqn-BKfw3A/edit?usp=sharing), [теоретическое задание](https://forms.gle/HLFAu1BbR8UrJobp9), [практическое задание](https://yadi.sk/i/8yuMGmCOaF8fNg).
 
-1. *TBA*
+1. Линейная регрессия. Функция потерь. Градиентный спуск. scikit-learn:
+[слайды](https://docs.google.com/presentation/d/1S0twhStVLub1nZGEiN_P_HDgbaV0RjrKIRyBW2kbV5I/edit?usp=sharing),
+[теоретическое задание](https://forms.gle/SZ1b9JARwr7vWfNN6),
+[практическое задание]().
 
 1. *TBA*
 
