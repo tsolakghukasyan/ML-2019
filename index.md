@@ -31,6 +31,7 @@
 
 1. *TBA*
 
+[Таблица с оценками](https://docs.google.com/spreadsheets/d/1GmztJH9s4zPuUiU9CdyyWnfNAqtEHA0xYlm-1OZfXeQ/edit?usp=sharing)
 
 ### Полезные материалы
 
