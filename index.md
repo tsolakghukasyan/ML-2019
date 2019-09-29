@@ -9,7 +9,7 @@
 1. Линейная регрессия. Функция потерь. Градиентный спуск. scikit-learn:
 [слайды](https://docs.google.com/presentation/d/1S0twhStVLub1nZGEiN_P_HDgbaV0RjrKIRyBW2kbV5I/edit?usp=sharing),
 [теоретическое задание](https://forms.gle/SZ1b9JARwr7vWfNN6),
-[практическое задание]().
+[практическое задание](https://yadi.sk/i/lUz41O9FDyKC8Q).
 
 1. *TBA*
 
