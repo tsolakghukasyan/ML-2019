@@ -11,7 +11,9 @@
 [теоретическое задание](https://forms.gle/SZ1b9JARwr7vWfNN6),
 [практическое задание](https://yadi.sk/i/lUz41O9FDyKC8Q).
 
-1. *TBA*
+1. Линейные методы классификации. Метрики качества классификации:
+[слайды](https://docs.google.com/presentation/d/1hNJLeCXANUyR1tubS7o4a3sZzicyt68eX8u-CJGCL6Q/edit?usp=sharing),
+[теоретическое задание]().
 
 1. *TBA*
 
