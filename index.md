@@ -13,7 +13,7 @@
 
 1. Линейные методы классификации. Метрики качества классификации:
 [слайды](https://docs.google.com/presentation/d/1hNJLeCXANUyR1tubS7o4a3sZzicyt68eX8u-CJGCL6Q/edit?usp=sharing),
-[теоретическое задание]().
+[теоретическое задание](https://docs.google.com/forms/d/1xRxs4KIpmygUzYzp6hqXyzliHvECZ_OWDxveZXzhugc/).
 
 1. *TBA*
 
