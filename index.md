@@ -16,7 +16,7 @@
 [теоретическое задание](https://docs.google.com/forms/d/1xRxs4KIpmygUzYzp6hqXyzliHvECZ_OWDxveZXzhugc/).
 
 1. Переобучение. Регуляризация. Перекрестная проверка:
-[слайды](https://docs.google.com/presentation/d/18Itw3dE8Ig2JCzE_85lGxZ5Fqdwx7hPqNmKi-ZWYQME/edit?usp=sharing)
+[слайды](https://docs.google.com/presentation/d/18Itw3dE8Ig2JCzE_85lGxZ5Fqdwx7hPqNmKi-ZWYQME/edit?usp=sharing),
 [теоретическое задание](https://docs.google.com/forms/d/e/1FAIpQLSeR7982sdNEqujYmiL5NgAatJhZ3MovlzioM4oxvv0HG1LJqg/viewform)
 
 1. *TBA*
