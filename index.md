@@ -20,7 +20,7 @@
 [теоретическое задание](https://docs.google.com/forms/d/e/1FAIpQLSeR7982sdNEqujYmiL5NgAatJhZ3MovlzioM4oxvv0HG1LJqg/viewform)
 
 1. Извлечение и отбор признаков. Признаковое описание текстов:
-[слайды](https://docs.google.com/presentation/d/1c1hXHU3yImBgYY9CdyT2YfFT8z8MTibZ71K1Ean_Uag/edit?usp=sharing)
+[слайды](https://docs.google.com/presentation/d/1c1hXHU3yImBgYY9CdyT2YfFT8z8MTibZ71K1Ean_Uag/edit?usp=sharing),
 [теоретическое задание](https://docs.google.com/forms/d/e/1FAIpQLSeUnzyf6jrHLrQO86a8vhNENqJRTPjPzXkHgTsywD65PlO-sA/viewform)
 
 1. *TBA*
