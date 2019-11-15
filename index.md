@@ -24,6 +24,7 @@
 [теоретическое задание](https://docs.google.com/forms/d/e/1FAIpQLSeUnzyf6jrHLrQO86a8vhNENqJRTPjPzXkHgTsywD65PlO-sA/viewform)
 
 1. Kaggle InClass соревнование "Классификация новостных текстов": 
+[страница соревнования на Kaggle](https://www.kaggle.com/c/ilur-news-classification),
 [слайды](https://docs.google.com/presentation/d/1bAJVkZVewx6GCHUgLxjTNquUdyQye6ABCF9x2TBol3g/edit?usp=sharing),
 [базовое решение](https://yadi.sk/d/hww9Joy-16S6oQ)
 
