@@ -28,9 +28,11 @@
 [слайды](https://docs.google.com/presentation/d/1bAJVkZVewx6GCHUgLxjTNquUdyQye6ABCF9x2TBol3g/edit?usp=sharing),
 [базовое решение](https://yadi.sk/d/hww9Joy-16S6oQ)
 
-1. *TBA*
+1. Метод k-ближайших соседей. Наивный байесовский классификатор:
+[слайды](https://docs.google.com/presentation/d/1Q-9WMyKEWqxeXscGzW2C9inGT1rwDyB23UoK5G5pFeM/edit?usp=sharing)
 
-1. *TBA*
+1. Дерево решений. Bagging. Random Forest. Boosting:
+[слайды](https://docs.google.com/presentation/d/1O1zG6jc2GcZQD0WezQ_NvF8fcScXCWBY4bCShb4g0TY/edit?usp=sharing)
 
 1. *TBA*
 
