@@ -35,7 +35,7 @@
 [слайды](https://docs.google.com/presentation/d/1O1zG6jc2GcZQD0WezQ_NvF8fcScXCWBY4bCShb4g0TY/edit?usp=sharing)
 
 1. Введение в нейронные сети. Keras:
-[слайды](https://docs.google.com/presentation/d/1KM8uN2xFb7_RV9NR8NNEyM9DKHibdk4_ThXkplbPOkw/edit?usp=sharing)
+[слайды](https://docs.google.com/presentation/d/1KM8uN2xFb7_RV9NR8NNEyM9DKHibdk4_ThXkplbPOkw/edit?usp=sharing),
 [теоретическое задание](https://docs.google.com/forms/d/1PFd__CEfokzKgHp_WFYMA7tUY9nJzZGyTgrNfridIpE/edit?usp=sharing)
 
 1. *TBA*
