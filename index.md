@@ -17,32 +17,30 @@
 
 1. Переобучение. Регуляризация. Перекрестная проверка:
 [слайды](https://docs.google.com/presentation/d/18Itw3dE8Ig2JCzE_85lGxZ5Fqdwx7hPqNmKi-ZWYQME/edit?usp=sharing),
-[теоретическое задание](https://docs.google.com/forms/d/e/1FAIpQLSeR7982sdNEqujYmiL5NgAatJhZ3MovlzioM4oxvv0HG1LJqg/viewform)
+[теоретическое задание](https://docs.google.com/forms/d/e/1FAIpQLSeR7982sdNEqujYmiL5NgAatJhZ3MovlzioM4oxvv0HG1LJqg/viewform).
 
 1. Извлечение и отбор признаков. Признаковое описание текстов:
 [слайды](https://docs.google.com/presentation/d/1c1hXHU3yImBgYY9CdyT2YfFT8z8MTibZ71K1Ean_Uag/edit?usp=sharing),
-[теоретическое задание](https://docs.google.com/forms/d/e/1FAIpQLSeUnzyf6jrHLrQO86a8vhNENqJRTPjPzXkHgTsywD65PlO-sA/viewform)
+[теоретическое задание](https://docs.google.com/forms/d/e/1FAIpQLSeUnzyf6jrHLrQO86a8vhNENqJRTPjPzXkHgTsywD65PlO-sA/viewform).
 
 1. Kaggle InClass соревнование "Классификация новостных текстов": 
 [страница соревнования на Kaggle](https://www.kaggle.com/c/ilur-news-classification),
 [слайды](https://docs.google.com/presentation/d/1bAJVkZVewx6GCHUgLxjTNquUdyQye6ABCF9x2TBol3g/edit?usp=sharing),
-[базовое решение](https://yadi.sk/d/hww9Joy-16S6oQ)
+[базовое решение](https://yadi.sk/d/hww9Joy-16S6oQ).
 
 1. Метод k-ближайших соседей. Наивный байесовский классификатор:
-[слайды](https://docs.google.com/presentation/d/1Q-9WMyKEWqxeXscGzW2C9inGT1rwDyB23UoK5G5pFeM/edit?usp=sharing)
+[слайды](https://docs.google.com/presentation/d/1Q-9WMyKEWqxeXscGzW2C9inGT1rwDyB23UoK5G5pFeM/edit?usp=sharing).
 
 1. Дерево решений. Bagging. Random Forest. Boosting:
-[слайды](https://docs.google.com/presentation/d/1O1zG6jc2GcZQD0WezQ_NvF8fcScXCWBY4bCShb4g0TY/edit?usp=sharing)
+[слайды](https://docs.google.com/presentation/d/1O1zG6jc2GcZQD0WezQ_NvF8fcScXCWBY4bCShb4g0TY/edit?usp=sharing).
 
 1. Введение в нейронные сети. Keras:
 [слайды](https://docs.google.com/presentation/d/1KM8uN2xFb7_RV9NR8NNEyM9DKHibdk4_ThXkplbPOkw/edit?usp=sharing),
-[теоретическое задание](https://docs.google.com/forms/d/1PFd__CEfokzKgHp_WFYMA7tUY9nJzZGyTgrNfridIpE/edit?usp=sharing)
+[теоретическое задание](https://docs.google.com/forms/d/1PFd__CEfokzKgHp_WFYMA7tUY9nJzZGyTgrNfridIpE/edit?usp=sharing).
 
-1. *TBA*
+1. Глубокое обучение. Перенос обучения. Сверточные сети:
+[слайды](https://docs.google.com/presentation/d/1CilwcVrGaRjxNk7P0Cc5xUg3dfKdOTik9_PQius9NBg/edit?usp=sharing).
 
-1. *TBA*
-
-1. *TBA*
 
 [Таблица с оценками](https://docs.google.com/spreadsheets/d/1GmztJH9s4zPuUiU9CdyyWnfNAqtEHA0xYlm-1OZfXeQ/edit?usp=sharing)
 
