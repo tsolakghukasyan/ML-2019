@@ -1,48 +1,14 @@
 # Курс "Машинное обучение"
-РАУ, осень 2019.
+РАУ, 2021.
 
 ### Лекции
 
 1. Введение в машинное обучение. Python:
-[слайды](https://docs.google.com/presentation/d/11JSz6xmCq-gMQKyV3lSqVwnBpiBItX6SXSqn-BKfw3A/edit?usp=sharing), [теоретическое задание](https://forms.gle/HLFAu1BbR8UrJobp9), [практическое задание](https://yadi.sk/i/8yuMGmCOaF8fNg).
+[слайды](https://docs.google.com/presentation/d/1iRv6zCrSgru-xWO8pdMcB-U4obdtdxA7PKmnrXm3WLk/edit?usp=sharing).
 
 1. Линейная регрессия. Функция потерь. Градиентный спуск. scikit-learn:
-[слайды](https://docs.google.com/presentation/d/1S0twhStVLub1nZGEiN_P_HDgbaV0RjrKIRyBW2kbV5I/edit?usp=sharing),
-[теоретическое задание](https://forms.gle/SZ1b9JARwr7vWfNN6),
-[практическое задание](https://yadi.sk/i/lUz41O9FDyKC8Q).
+[слайды](https://docs.google.com/presentation/d/12s46OC-cT6yV7gBypjq7f-t6tdtDoxr4Edru-O_2Dag/edit?usp=sharing).
 
-1. Линейные методы классификации. Метрики качества классификации:
-[слайды](https://docs.google.com/presentation/d/1hNJLeCXANUyR1tubS7o4a3sZzicyt68eX8u-CJGCL6Q/edit?usp=sharing),
-[теоретическое задание](https://docs.google.com/forms/d/1xRxs4KIpmygUzYzp6hqXyzliHvECZ_OWDxveZXzhugc/).
-
-1. Переобучение. Регуляризация. Перекрестная проверка:
-[слайды](https://docs.google.com/presentation/d/18Itw3dE8Ig2JCzE_85lGxZ5Fqdwx7hPqNmKi-ZWYQME/edit?usp=sharing),
-[теоретическое задание](https://docs.google.com/forms/d/e/1FAIpQLSeR7982sdNEqujYmiL5NgAatJhZ3MovlzioM4oxvv0HG1LJqg/viewform).
-
-1. Извлечение и отбор признаков. Признаковое описание текстов:
-[слайды](https://docs.google.com/presentation/d/1c1hXHU3yImBgYY9CdyT2YfFT8z8MTibZ71K1Ean_Uag/edit?usp=sharing),
-[теоретическое задание](https://docs.google.com/forms/d/e/1FAIpQLSeUnzyf6jrHLrQO86a8vhNENqJRTPjPzXkHgTsywD65PlO-sA/viewform).
-
-1. Kaggle InClass соревнование "Классификация новостных текстов": 
-[страница соревнования на Kaggle](https://www.kaggle.com/c/ilur-news-classification),
-[слайды](https://docs.google.com/presentation/d/1bAJVkZVewx6GCHUgLxjTNquUdyQye6ABCF9x2TBol3g/edit?usp=sharing),
-[базовое решение](https://yadi.sk/d/hww9Joy-16S6oQ).
-
-1. Метод k-ближайших соседей. Наивный байесовский классификатор:
-[слайды](https://docs.google.com/presentation/d/1Q-9WMyKEWqxeXscGzW2C9inGT1rwDyB23UoK5G5pFeM/edit?usp=sharing).
-
-1. Дерево решений. Bagging. Random Forest. Boosting:
-[слайды](https://docs.google.com/presentation/d/1O1zG6jc2GcZQD0WezQ_NvF8fcScXCWBY4bCShb4g0TY/edit?usp=sharing).
-
-1. Введение в нейронные сети. Keras:
-[слайды](https://docs.google.com/presentation/d/1KM8uN2xFb7_RV9NR8NNEyM9DKHibdk4_ThXkplbPOkw/edit?usp=sharing),
-[теоретическое задание](https://docs.google.com/forms/d/1PFd__CEfokzKgHp_WFYMA7tUY9nJzZGyTgrNfridIpE/edit?usp=sharing).
-
-1. Глубокое обучение. Перенос обучения. Сверточные сети:
-[слайды](https://docs.google.com/presentation/d/1CilwcVrGaRjxNk7P0Cc5xUg3dfKdOTik9_PQius9NBg/edit?usp=sharing).
-
-
-[Таблица с оценками](https://docs.google.com/spreadsheets/d/1GmztJH9s4zPuUiU9CdyyWnfNAqtEHA0xYlm-1OZfXeQ/edit?usp=sharing)
 
 ### Полезные материалы
 
@@ -67,7 +33,7 @@
 **Онлайн-курсы**
 
 1. [Машинное обучение](https://ru.coursera.org/learn/machine-learning) - онлайн курс Эндрю Ына из Стэнфордского университета.
-1. [Машинное обучение](https://ru.coursera.org/learn/machine-learning) - курс Константина Воронцова для Школы анализа данных Яндекса.
+1. [Машинное обучение](https://youtu.be/SZkrxWhI5qM) - курс Константина Воронцова для Школы анализа данных Яндекса.
 
 **Учебники**
 
