@@ -9,6 +9,9 @@
 1. Линейная регрессия. Функция потерь. Градиентный спуск. scikit-learn:
 [слайды](https://docs.google.com/presentation/d/12s46OC-cT6yV7gBypjq7f-t6tdtDoxr4Edru-O_2Dag/edit?usp=sharing).
 
+1. Линейные методы классификации. Метрики качества:
+[слайды](https://docs.google.com/presentation/d/14cm9AF3S6X7wt4XKI7oF3Q5R_xZGWWCUrifovZUeDK8/edit?usp=sharing)
+
 
 ### Полезные материалы
 
