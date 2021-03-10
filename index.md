@@ -14,6 +14,8 @@
 
 1. Переобучение. Регуляризация. Перекрестная проверка: [слайды](https://docs.google.com/presentation/d/15nrDArZAdzBK_KZHcNXQRmvvYMfgZONo2ciyWFgscAU/edit?usp=sharing)
 
+1. Извлечение, обработка и отбор признаков. Описание текстов и изображений: [слайды](https://docs.google.com/presentation/d/1PHhz741HHKWxoWQqEbWiYLCfnsdxBVlfv1LuLvdKUac/edit?usp=sharing)
+
 
 ### Полезные материалы
 
