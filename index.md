@@ -10,11 +10,13 @@
 [слайды](https://docs.google.com/presentation/d/12s46OC-cT6yV7gBypjq7f-t6tdtDoxr4Edru-O_2Dag/edit?usp=sharing).
 
 1. Линейные методы классификации. Метрики качества:
-[слайды](https://docs.google.com/presentation/d/14cm9AF3S6X7wt4XKI7oF3Q5R_xZGWWCUrifovZUeDK8/edit?usp=sharing)
+[слайды](https://docs.google.com/presentation/d/14cm9AF3S6X7wt4XKI7oF3Q5R_xZGWWCUrifovZUeDK8/edit?usp=sharing).
 
-1. Переобучение. Регуляризация. Перекрестная проверка: [слайды](https://docs.google.com/presentation/d/15nrDArZAdzBK_KZHcNXQRmvvYMfgZONo2ciyWFgscAU/edit?usp=sharing)
+1. Переобучение. Регуляризация. Перекрестная проверка: [слайды](https://docs.google.com/presentation/d/15nrDArZAdzBK_KZHcNXQRmvvYMfgZONo2ciyWFgscAU/edit?usp=sharing).
 
-1. Извлечение, обработка и отбор признаков. Описание текстов и изображений: [слайды](https://docs.google.com/presentation/d/1PHhz741HHKWxoWQqEbWiYLCfnsdxBVlfv1LuLvdKUac/edit?usp=sharing)
+1. Извлечение, обработка и отбор признаков. Описание текстов и изображений: [слайды](https://docs.google.com/presentation/d/1PHhz741HHKWxoWQqEbWiYLCfnsdxBVlfv1LuLvdKUac/edit?usp=sharing).
+
+1. Метод k-ближайших соседей. Наивный байесовский классификатор: [слайды](https://docs.google.com/presentation/d/1BholvOOrpWvsSNYsCmQ1P07ARnKRlzUhYjT8ULBVveI/edit?usp=sharing).
 
 
 ### Полезные материалы
