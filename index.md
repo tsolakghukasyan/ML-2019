@@ -18,6 +18,8 @@
 
 1. Метод k-ближайших соседей. Наивный байесовский классификатор: [слайды](https://docs.google.com/presentation/d/1BholvOOrpWvsSNYsCmQ1P07ARnKRlzUhYjT8ULBVveI/edit?usp=sharing).
 
+1. Дерево решений. Ансамбли:  [слайды](https://docs.google.com/presentation/d/1BbkPpkvdnRnQJ6u_NLl39wO5XTCMW40ke0dXvmExihM/edit?usp=sharing).
+
 
 ### Полезные материалы
 
