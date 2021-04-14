@@ -3,7 +3,7 @@
 
 ### Лекции
 
-1. Введение в машинное обучение. Python:
+1. Введение в машинное обучение:
 [слайды](https://docs.google.com/presentation/d/1iRv6zCrSgru-xWO8pdMcB-U4obdtdxA7PKmnrXm3WLk/edit?usp=sharing).
 
 1. Линейная регрессия. Функция потерь. Градиентный спуск. scikit-learn:
@@ -19,6 +19,8 @@
 1. Метод k-ближайших соседей. Наивный байесовский классификатор: [слайды](https://docs.google.com/presentation/d/1BholvOOrpWvsSNYsCmQ1P07ARnKRlzUhYjT8ULBVveI/edit?usp=sharing).
 
 1. Дерево решений. Ансамбли:  [слайды](https://docs.google.com/presentation/d/1BbkPpkvdnRnQJ6u_NLl39wO5XTCMW40ke0dXvmExihM/edit?usp=sharing).
+
+1. Введение в нейронные сети: [слайды](https://docs.google.com/presentation/d/1pSN9BPlpWVtf81hm0KPSmakLcGMI7Odz7HC6Y_zM9Zg/edit?usp=sharing).
 
 
 ### Полезные материалы
