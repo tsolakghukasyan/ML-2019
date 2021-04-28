@@ -22,6 +22,8 @@
 
 1. Введение в нейронные сети: [слайды](https://docs.google.com/presentation/d/1pSN9BPlpWVtf81hm0KPSmakLcGMI7Odz7HC6Y_zM9Zg/edit?usp=sharing).
 
+1. Введение в TensorFlow 2.0.
+
 
 ### Полезные материалы
 
