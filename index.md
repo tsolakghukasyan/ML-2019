@@ -24,6 +24,10 @@
 
 1. Введение в TensorFlow 2.0.
 
+1. Глубокое обучение. Перенос обучения, тонкая настройка: [слайды](https://docs.google.com/presentation/d/1IvFIX1BBdOjQt_5FO7ucAkp2BonnWuyI5LHfnmKy4oc/edit?usp=sharing).
+
+1. Обработка изображений. Сверточные сети: [слайды](https://docs.google.com/presentation/d/1yAO4uzWVdWhDYEgQ09UDsTncFm7bj7fHu4Bqz9tFCZU/edit?usp=sharing)
+
 
 ### Полезные материалы
 
