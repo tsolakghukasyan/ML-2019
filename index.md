@@ -28,7 +28,7 @@
 
 1. Обработка изображений. Сверточные сети: [слайды](https://docs.google.com/presentation/d/1yAO4uzWVdWhDYEgQ09UDsTncFm7bj7fHu4Bqz9tFCZU/edit?usp=sharing).
 
-1. Обучение без учителя. Сокращение размерности [слайды](https://docs.google.com/presentation/d/1NtPGOycEqaIkLoaDSsYzOuSNvue52X1FYiXrLzXsnFE/edit?usp=sharing).
+1. Обучение без учителя. Сокращение размерности: [слайды](https://docs.google.com/presentation/d/1NtPGOycEqaIkLoaDSsYzOuSNvue52X1FYiXrLzXsnFE/edit?usp=sharing).
 
 
 ### Полезные материалы
