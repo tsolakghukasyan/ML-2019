@@ -3,7 +3,7 @@
 
 ### Лекции
 
-1. Введение в машинное обучение. [слайды](https://docs.google.com/presentation/d/1-aSERO3trKOTnbc1dkjpAqNTJG2UZNsHD_hTXYSUJXw/edit?usp=sharing)
+1. Введение в машинное обучение: [слайды](https://docs.google.com/presentation/d/1-aSERO3trKOTnbc1dkjpAqNTJG2UZNsHD_hTXYSUJXw/edit?usp=sharing), [теоретическое задание 1](https://forms.gle/n4PK1FGKvc6JFZtr5).
 
 1. Линейная регрессия. Функция потерь. Градиентный спуск. scikit-learn.
 
