@@ -29,6 +29,8 @@
 
 1. Обучение с подкреплением.
 
+[Таблица оценок](https://docs.google.com/spreadsheets/d/1ZBdxUKDIlAWlzEn72AYXW79aNRzg6tx4hft73ZAJDUo/edit?usp=sharing)
+
 ### Полезные материалы
 
 **Учебники**
