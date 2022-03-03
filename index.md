@@ -7,7 +7,7 @@
 
 1. Линейная регрессия. Функция потерь. Градиентный спуск. scikit-learn: [слайды](https://docs.google.com/presentation/d/1RNxkaMBy0fgribukRGiLhIDDceWxMUz3qPKfgbRted0/edit?usp=sharing), [теоретическое задание 2](https://forms.gle/1HTHy3nbqkaLr3EZ6), [практическое задание 1](https://docs.google.com/document/d/1RlezO7Dbq3ZFjAXX5RNseeTVJlQs5duSW0h8k0RFaJQ/edit?usp=sharing).
 
-1. Линейные методы классификации. Метрики качества: [слайды](https://docs.google.com/presentation/d/1cG8Ary-Wd4HlNn1smWXI3w_GMNdSJsT19GeZs1Eepi0/edit?usp=sharing).
+1. Линейные методы классификации. Метрики качества: [слайды](https://docs.google.com/presentation/d/1cG8Ary-Wd4HlNn1smWXI3w_GMNdSJsT19GeZs1Eepi0/edit?usp=sharing), [теоретическое задание 3](https://forms.gle/uhfPeQxBsdX4hqPKA).
 
 1. Переобучение. Регуляризация. Перекрестная проверка.
 
