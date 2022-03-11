@@ -9,7 +9,7 @@
 
 1. Линейные методы классификации. Метрики качества: [слайды](https://docs.google.com/presentation/d/1cG8Ary-Wd4HlNn1smWXI3w_GMNdSJsT19GeZs1Eepi0/edit?usp=sharing), [теоретическое задание 3](https://forms.gle/uhfPeQxBsdX4hqPKA).
 
-1. Переобучение. Регуляризация. Перекрестная проверка.
+1. Переобучение. Регуляризация. Перекрестная проверка: [слайды](https://docs.google.com/presentation/d/1NDxO-YnYEtugXvESODJqekLZPaDEgzQn4TeT_sc9S3Y/edit?usp=sharing), [теоретическое задание 4](https://forms.gle/cEPqWsqnHccnXtvY7).
 
 1. Извлечение, обработка и отбор признаков. Описание текстов и изображений.
 
