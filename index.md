@@ -11,7 +11,9 @@
 
 1. Переобучение. Регуляризация. Перекрестная проверка: [слайды](https://docs.google.com/presentation/d/1NDxO-YnYEtugXvESODJqekLZPaDEgzQn4TeT_sc9S3Y/edit?usp=sharing), [теоретическое задание 4](https://forms.gle/cEPqWsqnHccnXtvY7).
 
-1. Извлечение, обработка и отбор признаков. Описание текстов и изображений.
+1. Извлечение, обработка и отбор признаков: [слайды](https://docs.google.com/presentation/d/17yAu3QX5URxiXj-Qt3twTmNGgU1H1fSEqPfsGHIqVcQ/edit?usp=sharing).
+
+1. Признаковое описание текстов и изображений: [слайды](https://docs.google.com/presentation/d/1fEl0mB5v-fywNRgSDb_-qJJUpEfmhnN-ew4empOX-WM/edit?usp=sharing).
 
 1. Метод k-ближайших соседей. Наивный байесовский классификатор.
 
