@@ -13,7 +13,7 @@
 
 1. Извлечение, обработка и отбор признаков: [слайды](https://docs.google.com/presentation/d/17yAu3QX5URxiXj-Qt3twTmNGgU1H1fSEqPfsGHIqVcQ/edit?usp=sharing).
 
-1. Признаковое описание текстов и изображений: [слайды](https://docs.google.com/presentation/d/1fEl0mB5v-fywNRgSDb_-qJJUpEfmhnN-ew4empOX-WM/edit?usp=sharing), [теоретическое задание 5](https://forms.gle/6yvPeAmx2KpUoAJo7).
+1. Признаковое описание текстов и изображений: [слайды](https://docs.google.com/presentation/d/1fEl0mB5v-fywNRgSDb_-qJJUpEfmhnN-ew4empOX-WM/edit?usp=sharing), [теоретическое задание 5](https://forms.gle/6yvPeAmx2KpUoAJo7), [практическое задание 2](https://docs.google.com/document/d/1X8zU3wQDoPRLBz_qH_wtzanu9Usth5qovk00VXukZTA/edit?usp=sharing).
 
 1. Метод k-ближайших соседей. Наивный байесовский классификатор: [слайды](https://docs.google.com/presentation/d/1JcD2A5IderCalVJUVTipQ4Hl8fqP8duxLt8n9sFx_rs/edit?usp=sharing).
 
