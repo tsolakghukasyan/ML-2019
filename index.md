@@ -17,7 +17,7 @@
 
 1. Метод k-ближайших соседей. Наивный байесовский классификатор: [слайды](https://docs.google.com/presentation/d/1JcD2A5IderCalVJUVTipQ4Hl8fqP8duxLt8n9sFx_rs/edit?usp=sharing).
 
-1. Дерево решений. Ансамбли.
+1. Дерево решений. Ансамбли: [слайды](https://docs.google.com/presentation/d/1EhUA9gP4a4UaWxjR617ezcKoW9Cbb0pkhW1HQFOiCZQ/edit?usp=sharing).
 
 1. Введение в нейронные сети.
 
