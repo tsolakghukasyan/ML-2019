@@ -19,7 +19,7 @@
 
 1. Дерево решений. Ансамбли: [слайды](https://docs.google.com/presentation/d/1EhUA9gP4a4UaWxjR617ezcKoW9Cbb0pkhW1HQFOiCZQ/edit?usp=sharing).
 
-1. Введение в нейронные сети.
+1. Введение в нейронные сети: [слайды](https://docs.google.com/presentation/d/1Osi02uXNCaQoM8hMSlq74Ziw6WPXvXyi5eW2_Ke756M/edit?usp=sharing).
 
 1. Программные библотеки для разработки нейронных сетей.
 
