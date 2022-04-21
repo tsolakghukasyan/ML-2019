@@ -21,7 +21,7 @@
 
 1. Введение в нейронные сети: [слайды](https://docs.google.com/presentation/d/1Osi02uXNCaQoM8hMSlq74Ziw6WPXvXyi5eW2_Ke756M/edit?usp=sharing), [теоретическое задание 6](https://forms.gle/95TL5b66bPi1Wqyc8).
 
-1. Программные библиотеки для разработки нейронных сетей: [слайды](https://docs.google.com/presentation/d/1CEwmTJXqhpuG5LuuS-In4BJeMHJr8-0Px1-rW70uk1E/edit?usp=sharing).
+1. Программные библиотеки для разработки нейронных сетей: [слайды](https://docs.google.com/presentation/d/1CEwmTJXqhpuG5LuuS-In4BJeMHJr8-0Px1-rW70uk1E/edit?usp=sharing), [практическое задание 3](https://docs.google.com/document/d/1vIgWgqXatApMZ0ODMY3Cds0YMhT3lzFbag6p3d8ksC8/edit?usp=sharing).
 
 1. Глубокое обучение. Перенос обучения, тонкая настройка.
 
