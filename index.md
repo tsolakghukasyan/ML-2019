@@ -23,7 +23,7 @@
 
 1. Программные библиотеки для разработки нейронных сетей: [слайды](https://docs.google.com/presentation/d/1CEwmTJXqhpuG5LuuS-In4BJeMHJr8-0Px1-rW70uk1E/edit?usp=sharing), [практическое задание 3](https://docs.google.com/document/d/1vIgWgqXatApMZ0ODMY3Cds0YMhT3lzFbag6p3d8ksC8/edit?usp=sharing).
 
-1. Глубокое обучение. Перенос обучения, тонкая настройка. Многозадачное обучение: [слайды](https://docs.google.com/presentation/d/1ykGIn9QUWzjwU558lp9p7uvZFCWPon3Fd1c3M9nRJfc/edit?usp=sharing).
+1. Глубокое обучение. Перенос обучения, тонкая настройка. Многозадачное обучение: [слайды](https://docs.google.com/presentation/d/1ykGIn9QUWzjwU558lp9p7uvZFCWPon3Fd1c3M9nRJfc/edit?usp=sharing), [теоретическое задание 7](https://forms.gle/d4XpfP9nckSZ7QvQ6).
 
 1. Обработка изображений. Сверточные сети.
 
