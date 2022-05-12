@@ -25,7 +25,7 @@
 
 1. Глубокое обучение. Перенос обучения, тонкая настройка. Многозадачное обучение: [слайды](https://docs.google.com/presentation/d/1ykGIn9QUWzjwU558lp9p7uvZFCWPon3Fd1c3M9nRJfc/edit?usp=sharing), [теоретическое задание 7](https://forms.gle/d4XpfP9nckSZ7QvQ6).
 
-1. Обработка изображений. Сверточные сети.
+1. Обработка изображений. Сверточные сети: [слайды](https://docs.google.com/presentation/d/1mJO0PgSNsuLDtEuE8ywbGvPqPDp7UnN5FXeEAWl_l4I/edit?usp=sharing).
 
 1. Обучение без учителя. Сокращение размерности.
 
