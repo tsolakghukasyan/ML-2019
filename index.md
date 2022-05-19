@@ -27,7 +27,9 @@
 
 1. Обработка изображений. Сверточные сети: [слайды](https://docs.google.com/presentation/d/1mJO0PgSNsuLDtEuE8ywbGvPqPDp7UnN5FXeEAWl_l4I/edit?usp=sharing).
 
-1. Обучение без учителя. Сокращение размерности.
+1. Обучение без учителя: Сокращение размерности: [слайды](https://docs.google.com/presentation/d/1ObkcYfb1KoDlk_e0gAWlaxJHDB8n52W5seMlVazy0Ho/edit?usp=sharing).
+
+1. Обучение без учителя: Кластеризация: [слайды](https://docs.google.com/presentation/d/1st2l7-W9iPurY8P5kjwUgCFMN20jkXMVANpmTmJu7FY/edit?usp=sharing).
 
 1. Обучение с подкреплением.
 
