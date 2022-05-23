@@ -29,7 +29,7 @@
 
 1. Обучение без учителя: Сокращение размерности: [слайды](https://docs.google.com/presentation/d/1ObkcYfb1KoDlk_e0gAWlaxJHDB8n52W5seMlVazy0Ho/edit?usp=sharing).
 
-1. Обучение без учителя: Кластеризация: [слайды](https://docs.google.com/presentation/d/1st2l7-W9iPurY8P5kjwUgCFMN20jkXMVANpmTmJu7FY/edit?usp=sharing).
+1. Обучение без учителя: Кластеризация: [слайды](https://docs.google.com/presentation/d/1st2l7-W9iPurY8P5kjwUgCFMN20jkXMVANpmTmJu7FY/edit?usp=sharing), [теоретическое задание 8](https://forms.gle/SwgNpbSuVvayCgaN8).
 
 1. Обучение с подкреплением.
 
