@@ -31,8 +31,6 @@
 
 1. Обучение без учителя: Кластеризация: [слайды](https://docs.google.com/presentation/d/1st2l7-W9iPurY8P5kjwUgCFMN20jkXMVANpmTmJu7FY/edit?usp=sharing), [теоретическое задание 8](https://forms.gle/SwgNpbSuVvayCgaN8).
 
-1. Обучение с подкреплением.
-
 [Таблица оценок](https://docs.google.com/spreadsheets/d/1ZBdxUKDIlAWlzEn72AYXW79aNRzg6tx4hft73ZAJDUo/edit?usp=sharing)
 
 ### Полезные материалы
